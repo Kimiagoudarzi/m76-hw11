@@ -23,6 +23,7 @@ function color() {
 //   let p9 = document.getElementById("part9");
 //   p9.style.backgroundColor = "#1F2937";
 
+
 let colors = ['#ffff','#DBEAFE',"#F3E8FF","#DCFCE7","#FEE2E2","#FEF9C3","#E0E7FF","#F9FAFB","#1F2937"];
 
  let trees = document.querySelectorAll('tbody tr');
